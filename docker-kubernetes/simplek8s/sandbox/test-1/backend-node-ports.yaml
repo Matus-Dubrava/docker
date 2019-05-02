@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: backend-node-ports
+spec:
+  type: NodePort
+  ports:
+    - port: 5050
+      targetPort: 5000
+      nodePort: 31516
+  selector:
+    component: backend

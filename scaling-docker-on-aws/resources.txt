@@ -1,0 +1,11 @@
+Security Group ID: sg-041e92d98f2685f89
+
+Registry URL: https://
+
+RDS password intergalactic
+RDS endpoint dockerzon-production.cdzyixf5hoqm.us-east-1.rds.amazonaws.com
+
+REDIS endpoint dockerzon-production.ev74x2.0001.use1.cache.amazonaws.com
+
+SUBNET IDS: subnet-8149048e subnet-9f9305b1 subnet-09722943 subnet-6af3780d subnet-888d19d4 subnet-9a1dc2a4
+ELB DNS: dockerzon-web-2022966444.us-east-1.elb.amazonaws.com
